@@ -56,4 +56,4 @@ La imagen contiene granos de café en diferentes etapas de maduración. La tarea
 
 ## **Recursos**
 
-- [Image Segmentation with Watershed Algorithm]([https://cran.r-project.org/manuals.html](https://docs.opencv.org/4.x/d3/db4/tutorial_py_watershed.html))
+- [Image Segmentation with Watershed Algorithm]([https://docs.opencv.org/4.x/d3/db4/tutorial_py_watershed.html])
