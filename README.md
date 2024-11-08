@@ -1,4 +1,4 @@
-**Segmentación de granos de café usando visión por computador**
+# **Segmentación de granos de café usando visión por computador**
 
 ### Descripción
 La imagen contiene granos de café en diferentes etapas de maduración. La tarea consiste en desarrollar un cuaderno interactivo en Python que realice la segmentación de cada grano y muestre los pasos seguidos para lograr la separación de granos que están pegados.
